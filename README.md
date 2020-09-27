@@ -11,6 +11,6 @@
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="20" height="20"/> LinkedIn [@dhikarangga](https://www.linkedin.com/in/dhika-rangga-b705a110b/)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=devildances&show_icons=true" alt="ijelliti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devildances&layout=compact" alt="ijelliti" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devildances&show_icons=true" alt="devildances" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devildances&layout=compact" alt="devildances" />
 </p>

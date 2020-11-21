@@ -1,7 +1,7 @@
 <!--
 **devildances/devildances** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Welcome to my github account, I'm Dhika Rangga 😄</h1>
+<h1 align="center">Welcome to my github account, fellas!! 😄</h1>
 <p align="center">
     <img src="https://www.tradenewswire.net/wp-content/uploads/2016/12/indonesian-flag.gif" alt="indonesia" /><br><br>
     <img src="https://komarev.com/ghpvc/?username=devildances&color=blue&style=plastic" alt="devildances" />
